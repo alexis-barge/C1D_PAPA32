@@ -5,6 +5,7 @@ Modified version of standard [C1D_PAPA](https://doi.org/10.5194/gmd-8-69-2015) [
 **Modifications include:**
   - vertical grid discretized over 32 depth levels
   - vertical domain defined up to 200m depth
+  - new time step: 1800s
 
 **Repository content:**
 - Repository follows standard structure of a NEMO config.
